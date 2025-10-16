@@ -15,6 +15,14 @@
     "bower"
   ],
   "dependencies": {
+    "lodash": "4.17.19",
+    "minimist": "1.2.2",
+    "serialize-javascript": "2.1.1",
+    "marked": "0.6.2",
+    "moment": "2.29.1",
+    "path-parse": "1.0.6",
+    "merge": "1.2.1"
+    "axios": "0.1.1",
     "dc-zou-fhk": "^1.0.0",
     "abbrev": "^1.0.5",
     "archy": "1.0.0",
