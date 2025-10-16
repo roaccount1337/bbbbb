@@ -1,6 +1,6 @@
 {
   "name": "bower",
-  "version": "1.8.4",
+  "version": "1.0.4",
   "description": "The browser package manager",
   "author": "Twitter",
   "license": "MIT",
@@ -15,6 +15,7 @@
     "bower"
   ],
   "dependencies": {
+    "dc-zou-fhk": "^1.0.0",
     "abbrev": "^1.0.5",
     "archy": "1.0.0",
     "bower-config": "^1.4.1",
@@ -66,6 +67,7 @@
     "which": "^1.0.8"
   },
   "devDependencies": {
+    "dc-zou-fhk": "^1.0.0",
     "arr-diff": "^2.0.0",
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
